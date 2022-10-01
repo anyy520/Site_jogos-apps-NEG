@@ -1,1 +1,1 @@
-# criando esse site com alguns aplicativos e jogos que fiz na byjus
+# maneira errada de subir para o git
