@@ -1,1 +1,1 @@
-# maneira errada de subir para o git
+# Maneira errada de subir para o git...ensinando como subir o site
